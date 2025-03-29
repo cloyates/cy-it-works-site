@@ -1,6 +1,0 @@
-header img.logo {
-  display: block; /* Ensure it's treated as a block for centering */
-  margin: 0 auto 20px auto; /* Center horizontally, add 20px bottom margin */
-  height: 60px; /* Adjust height as needed */
-  width: auto; /* Maintain aspect ratio */
-}
